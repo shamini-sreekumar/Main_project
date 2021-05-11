@@ -6,5 +6,11 @@ This test compares the top two amounts for each subset and calculates the RSF fo
 In order to identify potential fraudulent activities in invoice payment data, one utilizes the largest and the second-largest amounts 
 to calculate a ratio based on purchases that are grouped by vendors.  
 
+Benford
+--------
 
+Benford’s Law, also known as the Law of First Digits or the Phenomenon of Significant Digits, is the finding that the first digits 
+(or numerals to be exact) of the numbers found in series of records of the most varied sources do not display a uniform distribution,
+but rather are arranged in such a way that the digit “1” is the most frequent, followed by “2”, “3”, and so in a successively decreasing manner down to “9”.
+This can lead to important applications in data science such as catching anomalies or fraud detection.
 
