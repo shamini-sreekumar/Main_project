@@ -1,1 +1,10 @@
+RSF 
+-----
+
+Relative size factor (RSF) is a test to identify anomalies where the largest amount for subsets in a given key is outside the norm for those subsets.
+This test compares the top two amounts for each subset and calculates the RSF for each.
+In order to identify potential fraudulent activities in invoice payment data, one utilizes the largest and the second-largest amounts 
+to calculate a ratio based on purchases that are grouped by vendors.  
+
+
 
