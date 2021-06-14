@@ -1,1 +1,10 @@
 The Beneish model is a mathematical model that uses financial ratios and eight variables to identify whether a company has manipulated its earnings.
+8 variables are:
+1. DSRI: Days' sales in a receivable index
+2. GMI: Gross margin index
+3. AQI: Asset quality index
+4. SGI: Sales growth index
+5. DEPI: Depreciation index
+6. SGAI: Sales and general and administrative expenses index
+7. LVGI: Leverage index
+8. TATA: Total accruals to total assets
